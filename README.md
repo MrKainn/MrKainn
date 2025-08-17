@@ -62,7 +62,7 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
   &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-ar21.svg" alt="elasticsearch" width="90" height="90"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-ar21.svg" alt="elasticsearch" width="95" height="95"/>
   &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="NGINX" width="40" height="40"/>
   &nbsp;&nbsp;
@@ -107,10 +107,10 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Portfolio-Opening_Soon-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www..com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikkain/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its.me.kain/)
-[![Email](https://img.shields.io/badge/Email-kartikkain6@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikkain6@gmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www..com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikkain/)
+[![Instagram](https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its.me.kain/)
+[![Email](https://img.shields.io/badge/Email_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikkain6@gmail.com)
 
 </div>
 
