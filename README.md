@@ -15,7 +15,7 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
 - 🔭 Currently learning & working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps engineering**
 - 🌱 Always learning about **emerging technologies** and **best practices**
 - 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
-- 💬 Enrolled in CloudThat Tcehnologies powered by DevOps Training to upskill myself related to modern **DevOps Technologies**
+- 💬 Enrolled in DevOps Training powered by CloudThat Technologies to upskill myself related to modern **DevOps Technologies**
 - ⚡ I love gaining & sharing knowledge through **training and mentoring**
 
 ---
