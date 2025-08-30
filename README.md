@@ -1,12 +1,14 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MrKainn&color=brightgreen&style=flat-square" alt="MrKainn" /></p>
 
-<div align="center">
-  
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="65" height="65" /> Hi, I'm Kartik Kain
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="85" height="85" />
+    &nbsp;&nbsp;
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&weight=600&pause=500&color=2E9EF7&center=false&vCenter=true&width=735&lines=👋+Hi,+I'm+Kartik+Kain;Junior+DevOps+Engineer;2%2B+Years+of+Experience;Google+Associate+Cloud+Engineer+certified" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&weight=600&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Junior+DevOps+Engineer;2%2B+Years+of+Experience;GCP:+Associate+Cloud+Engineer)](https://git.io/typing-svg)
 
-</div>
 
 ---
 
