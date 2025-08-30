@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"> About Me</h2>
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">&nbsp; About Me</h2>
 
 I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** from Delhi, India, with **2+ years** of professional experience in both onsite and remote environments. I'm passionate about deploying **production-ready applications** and scalable cloud infrastructures.
 
@@ -24,7 +24,7 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
 
 ---
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="⚙" width="40" height="40"> Tech Stack</h2> 
+<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="⚙" width="30" height="30">&nbsp; Tech Stack</h2> 
 
 ### **Languages**
 <p align="left">
@@ -80,7 +80,7 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
 
 ---
 
-<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"> GitHub Stats </h2>
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">&nbsp; GitHub Stats </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrKainn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
@@ -93,22 +93,24 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
 
 ---
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="🏆" width="40" height="40"> GitHub Trophies</h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="🏆" width="30" height="30">&nbsp; GitHub Trophies</h2>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MrKainn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
 ---
 
-## 📈 Activity Graph
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="📈" width="30" height="30">&nbsp; Activity Graph</h2>
+  
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrKainn&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
 
 ---
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="⚙" width="90" height="90"> Connect With Me</h2>
-
+<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="⚙" width="25" height="25">&nbsp; Connect With Me</h2>
+&nbsp;
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www..com)
