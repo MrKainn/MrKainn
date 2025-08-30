@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">&nbsp; About Me</h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="32" height="32" />&nbsp; About Me</h2>
 
 I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** from Delhi, India, with **2+ years** of professional experience in both onsite and remote environments. I'm passionate about deploying **production-ready applications** and scalable cloud infrastructures.
 
@@ -24,7 +24,7 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
 
 ---
 
-<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="⚙" width="30" height="30">&nbsp; Tech Stack</h2> 
+<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="⚙" width="32" height="32">&nbsp; Tech Stack</h2> 
 
 ### **Languages**
 <p align="left">
@@ -93,7 +93,7 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
 
 ---
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="🏆" width="30" height="30">&nbsp; GitHub Trophies</h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="🏆" width="32" height="32">&nbsp; GitHub Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MrKainn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
@@ -101,7 +101,7 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
 
 ---
 
-<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="📈" width="30" height="30">&nbsp; Activity Graph</h2>
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="📈" width="32" height="32">&nbsp; Activity Graph</h2>
   
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrKainn&theme=tokyo-night&hide_border=true" alt="Activity Graph">
