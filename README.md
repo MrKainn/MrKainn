@@ -1,16 +1,18 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=MrKainn&color=brightgreen&style=flat-square" alt="MrKainn" /></p>
+
 <div align="center">
   
-# Hi, I'm Kartik Kain
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="65" height="65" /> Hi, I'm Kartik Kain
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Junior+DevOps+Engineer;2%2B+Years+of+Experience;GCP:+Associate+Cloud+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&weight=600&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Junior+DevOps+Engineer;2%2B+Years+of+Experience;GCP:+Associate+Cloud+Engineer)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"> About Me</h2>
 
-I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** from Delhi, India, with **2+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructures.
+I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** from Delhi, India, with **2+ years** of professional experience in both onsite and remote environments. I'm passionate about deploying **production-ready applications** and scalable cloud infrastructures.
 
 - 🔭 Currently learning & working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps engineering**
 - 🌱 Always learning about **emerging technologies** and **best practices**
@@ -20,9 +22,9 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="⚙" width="40" height="40"> Tech Stack</h2> 
 
-### **Languages & Frameworks**
+### **Languages & Frameworks**50
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Bash" width="85" height="85"/>
   &nbsp;&nbsp;
@@ -76,7 +78,7 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="left"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"> GitHub Stats </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrKainn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
@@ -89,7 +91,7 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="🏆" width="40" height="40"> GitHub Trophies</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MrKainn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
@@ -103,7 +105,7 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="⚙" width="90" height="90"> Connect With Me</h2>
 
 <div align="center">
   
@@ -117,10 +119,33 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
 ---
 
 <div align="center">
-  
-### 💡 "LEARN TO GROW" 
-
-![Profile Views](https://komarev.com/ghpvc/?username=MrKainn&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/MrKainn?label=Follow&style=social)](https://github.com/MrKainn)
-
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
 </div>
