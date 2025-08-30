@@ -26,7 +26,7 @@ I'm a **Junior DevOps Engineer** specializing in **Cloud & DevOps Engineering** 
 
 <h2 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="⚙" width="40" height="40"> Tech Stack</h2> 
 
-### **Languages & Frameworks**50
+### **Languages**
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Bash" width="85" height="85"/>
   &nbsp;&nbsp;
